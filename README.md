@@ -39,19 +39,19 @@
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=usamasaleem777&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamasaleem777&theme=radical" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamasaleem777&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Badges  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=usamasaleem777&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
