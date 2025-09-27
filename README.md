@@ -14,7 +14,6 @@
 - 🎨 Building **modern, responsive, and user-friendly web applications**  
 - ⚙️ Specializing in **LAMP stack (Linux, Apache, MySQL, PHP)**  
 - 🔹 Using **MeekroDB ORM** for secure & efficient database operations  
-- 🌱 Currently learning **advanced Laravel & real-time applications**  
 - 💡 Passionate about combining **elegant UI/UX** with **solid backend logic**  
 - 📫 Reach me at: **salemusama823@gmail.com**  
 
