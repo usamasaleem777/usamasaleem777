@@ -1,11 +1,61 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Usama Saleem</h1>
-<h3 align="center">I am a passionate Full Stack Developer who specializes in building modern, responsive, and user-friendly web applications. 🎨 On the frontend, I craft clean and modern interfaces using HTML5, CSS3, Bootstrap, and Tailwind CSS. ⚙️ On the backend, I work with the LAMP stack (Linux, Apache, MySQL, PHP), leveraging MeekroDB ORM for efficient and secure database operations. 🔹 I enjoy combining elegant UI/UX with solid backend logic to deliver scalable, high-performance applications.</h3>
+<h3 align="center">
+🚀 A Passionate Full Stack Developer | LAMP Stack | Tailwind CSS | MeekroDB ORM  
+</h3>
 
-- 📫 How to reach me **salemusama823@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences;Full+Stack+Web+Developer;LAMP+Stack+%7C+TailwindCSS+%7C+Bootstrap;Clean+Code+%26+Scalable+Solutions" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 About Me  
+- 🎨 Building **modern, responsive, and user-friendly web applications**  
+- ⚙️ Specializing in **LAMP stack (Linux, Apache, MySQL, PHP)**  
+- 🔹 Using **MeekroDB ORM** for secure & efficient database operations  
+- 🌱 Currently learning **advanced Laravel & real-time applications**  
+- 💡 Passionate about combining **elegant UI/UX** with **solid backend logic**  
+- 📫 Reach me at: **salemusama823@gmail.com**  
+
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="mailto:salemusama823@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/username" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,bootstrap,tailwind,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 Achievements & Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
